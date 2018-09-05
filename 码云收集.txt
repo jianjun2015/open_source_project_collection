@@ -1,0 +1,113 @@
+地址：https://www.jianshu.com/p/bd48bdb4ff04
+
+1、zheng：基于 Spring+SpringMVC+Mybatis 分布式敏捷开发系统架构
+	
+	基于 Spring+SpringMVC+Mybatis 分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
+
+	码云地址：https://gitee.com/shuzheng/zheng
+	
+2、JFinal：基于 Java 语言的极速 WEB + ORM 框架
+
+	JFinal 是基于 Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful。在拥有Java语言所有优势的同时再拥有ruby、python、php等动态语言的开发效率！为您节约更多时间，去陪恋人、家人和朋友 :)
+
+	码云地址：https://gitee.com/jfinal/jfinal
+
+3、	hutool：Java 工具集
+
+	Hutool 是一个 Java 工具集，针对我们项目中util包进行开刀，抽象大量的工具方法，旨在减少项目中工具类的数量，将我们的编码工作专注在业务上。Hutool 对文件、流、加密解密、转码、正则、线程、XML、日期、Http客户端 等 JDK 方法进行封装，组成各种 Util 工具类。 ?Hutool并非框架，而是一个工具类方法集合，随用随取，且随时可被替换，与任何框架不冲突。 ?Hutool的大部分工具方法并不依赖第三方包（extra模块对第三方框架封装工具类除外），轻量简洁。
+
+	码云地址：https://gitee.com/loolly/hutool
+
+6、mybatis-plus：Mybatis的增强工具
+	Mybatis-Plus（简称MP）是一个Mybatis的增强工具，在 Mybatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
+
+	码云地址：https://gitee.com/baomidou/mybatis-plus 
+
+8、easypoi：POI 的封装工具类
+	POI 工具类，Excel的快速导入导出，Excel模板导出，Word模板导出，可以仅仅5行代码就可以完成Excel的导入导出，修改导出格式简单粗暴，快速有效，easypoi值得你尝试
+
+	码云地址：https://gitee.com/lemur/easypoi
+	
+9、roncoo-pay：开源的互联网支付系统
+
+	龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。
+
+码云地址：https://gitee.com/roncoocom/roncoo-pay
+
+19、xxl-job：轻量级分布式任务调度框架
+XXL-JOB是一个轻量级分布式任务调度框架，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
+
+码云地址：https://gitee.com/xuxueli0323/xxl-job 
+
+22、Mybatis_PageHelper：Mybatis 分页插件
+
+Mybatis 分页插件。如果你也在用 Mybatis，建议尝试该分页插件，这一定是最方便使用的分页插件。
+
+码云地址：https://gitee.com/free/Mybatis_PageHelper 
+
+
+25、xxpay：使用 Java 开发的聚合支付
+XxPay聚合支付使用Java开发，包括spring-cloud、dubbo、spring-boot三个架构版本，已接入微信、支付宝等主流支付渠道，可直接用于生产环境
+
+码云地址：https://gitee.com/jmdhappy/xxpay-master 
+
+26、Mapper：Mybatis 通用 Mapper
+
+极其方便的使用 Mybatis 单表的增删改查
+
+码云地址：https://gitee.com/free/Mapper 
+
+27、weixin-java-tools：微信 Java 开发工具包
+
+可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、公众号、企业号、小程序等的开发
+
+码云地址：https://gitee.com/binary/weixin-java-tools
+
+28、spring-boot-pay：开源支付后台管理
+支付服务：支付宝，微信，银联详细代码案例(除银联支付可以测试以外，支付宝和微信支付测试均需要企业认证，个人无法完成测试)
+
+码云地址：https://gitee.com/52itstyle/spring-boot-pay 
+
+
+31、Morning：B2C 模式运营的公益在线商城
+猫宁Morning公益商城是中国公益性在线电子商城，以商城B2C模式运营的公益在线商城。系统分为前台和后台,前台主要功能包括注册和登录、商品浏览、个人信息管理、购物车、我的订单、网上支付、评价、提问、公益活动、公益论坛、商城论坛等系统，后台主要功能包括管理成员信息管理、用户信息管理、商品管理、公益活动管理、商品分类管理、订单管理、公告资讯管理、论坛平台管理、商品提上管理、商品评价管理等。
+
+码云地址：https://gitee.com/Morning_/Morning
+
+39、sequence：分布式高效 ID 生产黑科技
+
+高效 GUID 产生算法(sequence)，基于 Snowflake 实现 64 位自增 ID 算法。Twitter-Snowflake 算法产生的背景相当简单，为了满足 Twitter 每秒上万条消息的请求，每条消息都必须分配一条唯一的id，这些id还需要一些大致的顺序（方便客户端排序），并且在分布式系统中不同机器产生的id必须不同。
+
+码云地址：https://gitee.com/yu120/sequence
+
+41、Sharding-JDBC：轻量级的关系型数据库中间件
+Sharding-JDBC是一个轻量级的关系型数据库中间件，提供分库分表、读写分离和柔性事务等功能。
+
+码云地址：https://gitee.com/shardingjdbc/sharding-jdbc 
+
+48、pay-java-parent：轻量级支付模块集成
+
+轻量级支付模块集成（微信支付,友店扫码,支付宝,富友,银联）支付整合，app,扫码,即时到帐刷卡付条码付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里
+
+码云地址：https://gitee.com/egzosn/pay-java-parent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
